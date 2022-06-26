@@ -2,7 +2,7 @@
 
 <br>
 <h1 align="center">
-  <span>讨论区</span>
+  讨论区
 	<img src="./img/open-source.png" width="500" alt="" />
 </h1>
 
