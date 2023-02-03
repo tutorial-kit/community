@@ -8,7 +8,7 @@
 </h1>
 
 
-欢迎来到`Tutorial-Kit`讨论区
+欢迎来到`Tutorial-Kit`讨论区，致力于为更多的开源 & 书籍做教程和推广和共赢
 
 ## [Issue](https://github.com/tutorial-kit/community/issues)
 
